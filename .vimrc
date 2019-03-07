@@ -1,3 +1,7 @@
+" location: ~/.vimrc
+" 1. git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+" 2. launch VIM run :PluginInstall
+
 set nocompatible
 set encoding=utf-8
 filetype off                  " required
