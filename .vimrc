@@ -6,6 +6,8 @@ set nocompatible
 set encoding=utf-8
 filetype off                  " required
 
+set clipboard=unnamed
+
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
