@@ -21,6 +21,7 @@ Plugin 'tpope/vim-commentary'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'vim-airline/vim-airline'
 Plugin 'nvie/vim-flake8'
+Plugin 'fatih/vim-go'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -37,6 +38,7 @@ set relativenumber
 
 set scrolloff=3
 set expandtab
+set shiftwidth=4
 set tabstop=4
 
 set ignorecase
